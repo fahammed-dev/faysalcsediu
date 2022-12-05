@@ -44,6 +44,9 @@
     <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
     <img src="./assets/eslint-original.svg" title="Eslint" alt="Eslint" width="30" height="30"/>
     <img src="./assets/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>
+    <img src="./assets/hugo-original.svg" title="Hugo" alt="Hugo" width="30" height="30"/>
+    <img src="./assets/electron-original.svg" title="Electron" alt="Electron" width="30" height="30"/>
+    <img src="./assets/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="30" height="30"/>
 </p>
 
 ### 🏗️ Projects :
