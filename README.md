@@ -3,16 +3,16 @@
     <br><br>
     <p id="badges" align="center">
         <a href="your-linkedin-URL">
-            <img src="./assets/Linkedin.png" alt="LinkedIn Badge" width="30" height="30"/>
+            <img src="./assets/Linkedin.png" alt="LinkedIn Badge" width="40" height="40"/>
         </a>&nbsp;
         <a href="your-linkedin-URL">
-            <img src="./assets/mail.png" alt="LinkedIn Badge" width="30" height="30"/>
+            <img src="./assets/mail.png" alt="LinkedIn Badge" width="40" height="40"/>
         </a>&nbsp;
         <a href="your-linkedin-URL">
-            <img src="./assets/skype.png" alt="LinkedIn Badge" width="30" height="30"/>
+            <img src="./assets/skype.png" alt="LinkedIn Badge" width="40" height="40"/>
         </a>&nbsp;
         <a href="your-linkedin-URL">
-            <img src="./assets/twitter.png" alt="LinkedIn Badge" width="30" height="30"/>
+            <img src="./assets/twitter.png" alt="LinkedIn Badge" width="40" height="40"/>
         </a>
     </p>
 </h1>
