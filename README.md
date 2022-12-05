@@ -3,16 +3,16 @@
     <br><br>
     <p id="badges" align="center">
         <a href="your-linkedin-URL">
-            <img src="./assets/Linkedin.png" alt="LinkedIn Badge" width="40" height="40"/>
+            <img src="./assets/Linkedin.png" alt="LinkedIn Badge" width="30" height="30"/>
         </a>&nbsp;
         <a href="your-linkedin-URL">
-            <img src="./assets/mail.png" alt="LinkedIn Badge" width="40" height="40"/>
+            <img src="./assets/mail.png" alt="LinkedIn Badge" width="30" height="30"/>
         </a>&nbsp;
         <a href="your-linkedin-URL">
-            <img src="./assets/skype.png" alt="LinkedIn Badge" width="40" height="40"/>
+            <img src="./assets/skype.png" alt="LinkedIn Badge" width="30" height="30"/>
         </a>&nbsp;
         <a href="your-linkedin-URL">
-            <img src="./assets/twitter.png" alt="LinkedIn Badge" width="40" height="40"/>
+            <img src="./assets/twitter.png" alt="LinkedIn Badge" width="30" height="30"/>
         </a>
     </p>
 </h1>
@@ -24,25 +24,26 @@
 
 ### 🛠️ Languages and Tools :
 <p>
-    <img src="./assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="./assets/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-    <img src="./assets/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="./assets/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-    <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-    <img src="./assets/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="./assets/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="./assets/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
-    <img src="./assets/gatsby-plain.svg" title="Gatsby" alt="Gatsby" width="40" height="40"/>&nbsp;
-    <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="./assets/nextjs-line.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-    <img src="./assets/c-original.svg" title="C Programming" alt="C Programming" width="40" height="40"/>&nbsp;
-    <img src="./assets/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="./assets/redis-original.svg" title="Radis" alt="Radis" width="40" height="40"/>&nbsp;
-    <img src="./assets/postgresql-plain.svg" title="PostGraesql" alt="PostGraesql" width="40" height="40"/>&nbsp;
-    <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-    <img src="./assets/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
-    <img src="./assets/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+    <img src="./assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+    <img src="./assets/react-original.svg" title="ReactJS" alt="ReactJS" width="30" height="30"/>&nbsp;
+    <img src="./assets/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
+    <img src="./assets/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
+    <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
+    <img src="./assets/firebase-plain.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;
+    <img src="./assets/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/>&nbsp;
+    <img src="./assets/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="30" height="30"/>&nbsp;
+    <img src="./assets/gatsby-plain.svg" title="Gatsby" alt="Gatsby" width="30" height="30"/>&nbsp;
+    <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
+    <img src="./assets/nextjs-line.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
+    <img src="./assets/c-original.svg" title="C Programming" alt="C Programming" width="30" height="30"/>&nbsp;
+    <img src="./assets/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+    <img src="./assets/redis-original.svg" title="Radis" alt="Radis" width="30" height="30"/>&nbsp;
+    <img src="./assets/postgresql-plain.svg" title="PostGraesql" alt="PostGraesql" width="30" height="30"/>&nbsp;
+    <img src="./assets/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
+    <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
+    <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
+    <img src="./assets/eslint-original.svg" title="Eslint" alt="Eslint" width="30" height="30"/>
+    <img src="./assets/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>
 </p>
 
 ### 🏗️ Projects :
