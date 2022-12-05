@@ -40,6 +40,8 @@
     <img src="./assets/redis-original.svg" title="Radis" alt="Radis" width="40" height="40"/>&nbsp;
     <img src="./assets/postgresql-plain.svg" title="PostGraesql" alt="PostGraesql" width="40" height="40"/>&nbsp;
     <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+    <img src="./assets/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
     <img src="./assets/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </p>
 
