@@ -55,7 +55,7 @@
     <tr border: none;>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
-      <td><b>Source Code / Link</b></td>
+      <td><b>Source Code</b></td>
     </tr>
   </thead>
   <tbody>
