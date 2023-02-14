@@ -60,12 +60,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#" target="_blank">Stack Diary</a></td>
-      <td>Blog application using MERN Stack</td>
+      <td><a href="#" target="_blank">...</a></td>
+      <td>...</td>
       <td>...</td>
     </tr>
     <tr>
-      <td><a href="#" target="_blank">Upcoming..</a></td>
+      <td><a href="#" target="_blank">...</a></td>
       <td>...</td>
       <td>...</td>
     </tr>
