@@ -2,17 +2,17 @@
     Faysal Ahammed—@faysalcsediu
     <br><br>
     <p id="badges" align="center">
-        <a href="your-linkedin-URL">
+        <a href="https://www.linkedin.com/in/faysalcsediu/">
             <img src="./assets/Linkedin.png" alt="LinkedIn Badge" width="40" height="40"/>
         </a>&nbsp;
-        <a href="your-linkedin-URL">
-            <img src="./assets/mail.png" alt="LinkedIn Badge" width="40" height="40"/>
+        <a href="mailto:faysal.csediu@gmail.com">
+            <img src="./assets/mail.png" alt="Email Badge" width="40" height="40"/>
         </a>&nbsp;
-        <a href="your-linkedin-URL">
-            <img src="./assets/skype.png" alt="LinkedIn Badge" width="40" height="40"/>
+        <a href="https://join.skype.com/invite/uBjdcPceXfKc">
+            <img src="./assets/skype.png" alt="Skype Badge" width="40" height="40"/>
         </a>&nbsp;
-        <a href="your-linkedin-URL">
-            <img src="./assets/twitter.png" alt="LinkedIn Badge" width="40" height="40"/>
+        <a href="https://twitter.com/faysalcsediu">
+            <img src="./assets/twitter.png" alt="Twitter Badge" width="40" height="40"/>
         </a>
     </p>
 </h1>
@@ -37,15 +37,12 @@
     <img src="./assets/nextjs-line.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
     <img src="./assets/c-original.svg" title="C Programming" alt="C Programming" width="30" height="30"/>&nbsp;
     <img src="./assets/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-    <img src="./assets/redis-original.svg" title="Radis" alt="Radis" width="30" height="30"/>&nbsp;
     <img src="./assets/postgresql-plain.svg" title="PostGraesql" alt="PostGraesql" width="30" height="30"/>&nbsp;
-    <img src="./assets/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
     <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
     <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
     <img src="./assets/eslint-original.svg" title="Eslint" alt="Eslint" width="30" height="30"/>
     <img src="./assets/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>
     <img src="./assets/hugo-original.svg" title="Hugo" alt="Hugo" width="30" height="30"/>
-    <img src="./assets/electron-original.svg" title="Electron" alt="Electron" width="30" height="30"/>
     <img src="./assets/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="30" height="30"/>
 </p>
 
