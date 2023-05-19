@@ -12,7 +12,7 @@
 
 <div style="display: flex;">
     <a href="https://www.linkedin.com/in/faysalcsediu/">
-        <img src="./assets/linkedin.svg" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
+        <img src="./assets/linkedIn.svg" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
     <a href="https://twitter.com/faysalcsediu">
         <img src="./assets/twitter.svg" alt="Twitter" style="flex: 1; margin-left: 10px;">
@@ -21,10 +21,10 @@
 
 <div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">
     <div>
-        📧 Contact: <span style="color: green">faysal.csediu@gmail.com</span>
+        📧 Contact: <span style="color: purple">faysal.csediu@gmail.com</span>
     </div>
     <div>
-        🌐 Blog: <a href="https://faysalahammed.hashnode.dev" style="text-decoration: none; color: blue;">faysalahammed.hashnode.dev</a>
+        🌐 Blog: <a href="https://faysalahammed.hashnode.dev" style="text-decoration: none; color: teal;">faysalahammed.hashnode.dev</a>
     </div>
 </div>
 
