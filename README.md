@@ -20,6 +20,8 @@
     <img src="./assets/mongoose.png" title="Mongoose" alt="MongoDB" width="30" height="30"/>&nbsp;
     <img src="./assets/sass-1.svg" title="Sass" alt="Sass" width="30" height="30"/>&nbsp;
     <img src="./assets/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="30" height="30"/>&nbsp;
+    <img src="./assets/material-ui-1.svg" title="MaterialUI" alt="MaterialUI" width="30" height="30"/>&nbsp;
+    <img src="./assets/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="30" height="30"/>&nbsp;
     <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
     <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
     <img src="./assets/nextjs-line.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
