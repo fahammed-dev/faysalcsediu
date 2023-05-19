@@ -2,11 +2,15 @@
     Faysal Ahammed—@faysalcsediu
 </h1>
 
-### 🧔 About Me :
+### 🧔 About me :
 
 <p align="justify">
     Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm Faysal—a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. JavaScript is my primary area of expertise, and I like to use it for the majority of my tasks. I have graduated with a bachelor's degree in Computer Science and Engineering from Daffodil International University at Dhaka, Bangladesh in 2022. I am open to any type of career opportunity that aligns with my interests.
 </p>
+
+### 🤝 Connect with me:
+
+<p>📧 faysal.csediu@gmail.com</p>
 
 ### 🛠️ Languages and Tools :
 
@@ -21,7 +25,6 @@
     <img src="./assets/sass-1.svg" title="Sass" alt="Sass" width="30" height="30"/>&nbsp;
     <img src="./assets/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="30" height="30"/>&nbsp;
     <img src="./assets/material-ui-1.svg" title="MaterialUI" alt="MaterialUI" width="30" height="30"/>&nbsp;
-    <img src="./assets/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="30" height="30"/>&nbsp;
     <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
     <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
     <img src="./assets/nextjs-line.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
