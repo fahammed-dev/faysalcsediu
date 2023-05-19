@@ -15,7 +15,7 @@
         <img src="./assets/linkedIn.svg" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
     <a href="https://twitter.com/faysalcsediu">
-        <img src="./assets/twitter.svg" alt="Twitter" style="flex: 1; margin-left: 10px;">
+        <img src="./assets/twitter.svg" alt="Twitter" style="flex: 1; margin-left: 30px;">
     </a>
 </div>
 
