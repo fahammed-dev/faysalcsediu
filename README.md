@@ -18,16 +18,19 @@
     <img src="./assets/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
     <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
     <img src="./assets/mongoose.png" title="Mongoose" alt="MongoDB" width="30" height="30"/>&nbsp;
+    <img src="./assets/sass-1.svg" title="Sass" alt="Sass" width="30" height="30"/>&nbsp;
+    <img src="./assets/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="30" height="30"/>&nbsp;
+    <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
     <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
     <img src="./assets/nextjs-line.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
     <img src="./assets/postgresql-plain.svg" title="PostGraesql" alt="PostGraesql" width="30" height="30"/>&nbsp;
-    <img src="./assets/redis-original.svg" title="Redis" alt="PostGraesql" width="30" height="30"/>&nbsp;
-    <img src="./assets/prisma-3.svg" title="Prisma" alt="PostGraesql" width="30" height="30"/>&nbsp;
-    <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
-    <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
-    <img src="./assets/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="30" height="30"/>&nbsp;
-    <img src="./assets/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+    <img src="./assets/redis-original.svg" title="Redis" alt="Redis" width="30" height="30"/>&nbsp;
+    <img src="./assets/prisma-3.svg" title="Prisma" alt="Prisma" width="30" height="30"/>&nbsp;
+    <img src="./assets/graphql-logo-2.svg" title="Graphql" alt="Graphql" width="30" height="30"/>&nbsp;
     <img src="./assets/c-original.svg" title="C Programming" alt="C Programming" width="30" height="30"/>&nbsp;
+    <img src="./assets/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+    <img src="./assets/docker-original.svg" title="Docker" 
+    alt="Docker" width="30" height="30"/>&nbsp;
 </p>
 
 ### 🏗️ Projects :
