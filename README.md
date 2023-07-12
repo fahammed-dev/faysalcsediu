@@ -66,7 +66,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">Developer Portfolio</a></td>
+      <td><a href="https://faysal.pages.dev/" target="_blank">Developer Portfolio</a></td>
       <td>A simple portfolio website build with react, typescript, tailwindcss and framermotion library</td>
     <td>...</td>
     </tr>
