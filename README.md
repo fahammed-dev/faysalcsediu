@@ -67,7 +67,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Developer Portfolio<</td>
+      <td>Developer Portfolio</td>
       <td>A simple portfolio website build with react, typescript, tailwindcss and framermotion library</td>
       <td><a href="faysal.pages.dev" target="_blank">Link</a></td>
         <td>...</td>
