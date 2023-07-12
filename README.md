@@ -70,12 +70,13 @@
       <td>Developer Portfolio</td>
       <td>A simple portfolio website build with react, typescript, tailwindcss and framermotion library</td>
       <td><a href="faysal.pages.dev" target="_blank">Link</a></td>
-        <td>...</td>
+    <td>...</td>
     </tr>
     <tr>
       <td><a href="#" target="_blank">...</a></td>
       <td>...</td>
       <td>...</td>
+    <td>...</td>
     </tr>
   </tbody>
 </table>
