@@ -61,7 +61,6 @@
     <tr border: none;>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
-        <td><b>Live Link</b></td>
       <td><b>Source Code</b></td>
     </tr>
   </thead>
@@ -69,12 +68,10 @@
     <tr>
       <td>Developer Portfolio</td>
       <td>A simple portfolio website build with react, typescript, tailwindcss and framermotion library</td>
-      <td><a href="faysal.pages.dev" target="_blank">Link</a></td>
     <td>...</td>
     </tr>
     <tr>
       <td><a href="#" target="_blank">...</a></td>
-      <td>...</td>
       <td>...</td>
     <td>...</td>
     </tr>
